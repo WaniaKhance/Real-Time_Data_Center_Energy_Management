@@ -1,0 +1,2 @@
+# Data_Center_Energy_Management
+This project is Master thesis research conducted at ENEA Portici Research Center, Italy. The data is obtained from the HPC CRESCO6 cluster at ENEA Portici Research Center. The aim is to identify energy consuming areas within the data center. In this project, real-time dataset from ENEA Portici Research Center is used. There are several techniques implemented including big data analytics and AI technology. 
