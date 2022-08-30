@@ -1,6 +1,6 @@
 # Masters Research Project 
 ## Data Center Energy Management @ ENEA Portici Research Center, Italy
-## Awarded best Master Thesis Award :trophy: at 6th IFAC Symposium and Telematics (Nancy, France)
+## Awarded best Master Thesis Award :trophy: at 6th IFAC Symposium on Telematics Applications (Nancy, France)
 
 * Introduction
   ------------
