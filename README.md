@@ -27,3 +27,9 @@ The methodology can be implemented on different datasets of other data centers.
 * Installation
   ------------
 There are few python packages and libraries that need to be installed which are provided in the python codes. 
+
+* Tools Used
+  ------------
+  1. Google Colab Pro
+  2. Python 
+  
