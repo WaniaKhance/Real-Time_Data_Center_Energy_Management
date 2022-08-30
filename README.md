@@ -33,3 +33,15 @@ There are few python packages and libraries that need to be installed which are 
   1. Google Colab Pro
   2. Python 
   
+  * Dataset Used
+  ------------
+  1. Sensor Data: obtained from compute node (server) sensors and it consists of timestamp, cpu, memory, network utilization, fan speed, node temperature etc.
+  2. Jobs Data: data about jobs submitted to servers for processing and it consists of timestamp, job start time, job end time, job status etc. 
+  3. Cooling Data: collected from cooling machines (AC) in IT room. It consists of data such as timestamp, cooling machine status, temperature etc.
+  4. Environment Data: collected from different temperature and humidity sensors installed in IT room and it consists of room temperature and humidity for both hot and cold aisles. 
+  
+  * Python Files Description
+  ------------
+  
+  1. Coversion of seconds data to hourly data: python code on transformation of seconds data to hourly data using sampling method. 
+  2. 
