@@ -31,7 +31,7 @@ There are few python packages and libraries that need to be installed which are 
 * Tools Used
   ------------
   1. Google Colab Pro
-  2. Python 
+  2. Python language
   
 * Dataset Info
   ------------
@@ -44,4 +44,5 @@ There are few python packages and libraries that need to be installed which are 
   ------------
   
   1. Coversion of seconds data to hourly data: python code on transformation of seconds data to hourly data using sampling method. 
-  2. 
+  2. IT Room Thermal Data Classification: provides machine learning classification of IT room thermal data onto multiple classes such as low, medium, high temperature as per ASHRAE Recommendations. 
+  3. LSTM_for_Prediction_of_Resource_Utilization: python code for advance prediction of resources utilization in DC using LSTM. 
