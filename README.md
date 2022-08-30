@@ -46,3 +46,7 @@ There are few python packages and libraries that need to be installed which are 
   1. Coversion of seconds data to hourly data: python code on transformation of seconds data to hourly data using sampling method. 
   2. IT Room Thermal Data Classification: provides machine learning classification of IT room thermal data onto multiple classes such as low, medium, high temperature as per ASHRAE Recommendations. 
   3. LSTM_for_Prediction_of_Resource_Utilization: python code for advance prediction of resources utilization in DC using LSTM. 
+  4. Future Forecast of Energy Consumption and Waste: python code for future forecast of active energy consumption and energy waste based on the job status using SARIMA modelling. 
+  
+  
+ I hope this code helps :smiley:
